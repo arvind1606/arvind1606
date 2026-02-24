@@ -90,15 +90,6 @@ I'm a **GenAI Architect and Data Scientist** with **18+ years of industry experi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvind1606&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind1606&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
-
----
-
 <p align="center">
   <i>"Turning complex business challenges into intelligent, data-driven solutions — one model at a time."</i>
 </p>
